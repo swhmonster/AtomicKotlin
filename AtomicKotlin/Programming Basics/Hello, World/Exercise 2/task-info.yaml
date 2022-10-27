@@ -11,7 +11,7 @@ files:
       offset: 67
     initialized_from_dependency: false
     selected: true
-    status: Failed
+    status: Solved
     encrypted_possible_answer: 2XU/S818KU6OvQhsBkMPfk9WzquYbsWe0kvEmVKe0+58JmjWVIAvafT61YJPKFSi
   encrypted_text: WzMLgow9eqOQ1CEhzmhZ7Gu4fNvO4tujTFL5VLW2GaT3QbSxkJ7kYnNgh9qJ7n8//8sMsfNUA+e8HE+2leQhj1Ig7M7vTwvfsTjWvbU2HK4=
   learner_created: false
@@ -19,14 +19,8 @@ files:
   visible: false
   encrypted_text: JJjzTV6UpjWj/0ROBPM3Ow==
   learner_created: false
-status: Failed
+status: Solved
 feedback:
-  message: Incorrect
-  time: Thu, 27 Oct 2022 09:00:26 UTC
-  expected: |
-    Hello,
-    Kotlin!
-  actual: |-
-    Hello,
-    Kotlin!
+  message: Congratulations!
+  time: Thu, 27 Oct 2022 09:14:32 UTC
 record: -1

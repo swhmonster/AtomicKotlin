@@ -3,15 +3,15 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 65
-    length: 7
+  - offset: 83
+    length: 55
     placeholder_text: // TODO
     initial_state:
       length: 7
       offset: 65
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: XtK6ir97T16mkkPEe0qSHokeAYSpSP+sgThWhuONtVOszFPClvXvHkFZLrIn6S2/dj82sWfnkoCjGAANYO8T/m7BHW4YzvjxCJlEIb95Oq8=
   encrypted_text: lk3JxEpUKOvddjKucMSUXAfMBt5KAPiZ9d47N1vTJwRxnIQMlpYBA8LnEkJ2fSJ3nX4ozqgwZgIODJx7FF3VFaxZFd/cTQJKhEW7vqSMSDg=
   learner_created: false
@@ -19,5 +19,8 @@ files:
   visible: false
   encrypted_text: SPRy7ovieixPJTMhQiJVsQ==
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Thu, 27 Oct 2022 12:45:49 UTC
 record: -1
