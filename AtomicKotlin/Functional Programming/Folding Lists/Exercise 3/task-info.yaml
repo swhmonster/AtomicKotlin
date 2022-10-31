@@ -5,7 +5,7 @@ files:
   placeholders:
   - offset: 137
     length: 25
-    placeholder_text: TODO("fold(???) { ??? }")
+    placeholder_text: "TODO(\"fold(???) { ??? }\")"
     initial_state:
       length: 25
       offset: 137

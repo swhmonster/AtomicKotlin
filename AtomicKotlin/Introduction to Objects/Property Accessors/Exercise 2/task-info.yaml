@@ -5,7 +5,7 @@ files:
   placeholders:
   - offset: 87
     length: 32
-    placeholder_text: '// TODO: create class Accessible'
+    placeholder_text: "// TODO: create class Accessible"
     initial_state:
       length: 32
       offset: 87

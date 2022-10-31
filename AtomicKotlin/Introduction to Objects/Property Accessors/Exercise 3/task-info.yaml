@@ -5,7 +5,7 @@ files:
   placeholders:
   - offset: 87
     length: 36
-    placeholder_text: '// TODO: create class MessageStorage'
+    placeholder_text: "// TODO: create class MessageStorage"
     initial_state:
       length: 36
       offset: 87

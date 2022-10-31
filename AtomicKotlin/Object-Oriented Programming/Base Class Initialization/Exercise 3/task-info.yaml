@@ -5,7 +5,7 @@ files:
   placeholders:
   - offset: 92
     length: 49
-    placeholder_text: '/* TODO: Implement Animal, Cat and Dog classes */'
+    placeholder_text: "/* TODO: Implement Animal, Cat and Dog classes */"
     initial_state:
       length: 49
       offset: 92

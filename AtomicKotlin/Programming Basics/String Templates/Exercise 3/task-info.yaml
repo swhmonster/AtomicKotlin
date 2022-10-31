@@ -5,7 +5,7 @@ files:
   placeholders:
   - offset: 62
     length: 143
-    placeholder_text: fun show() {}
+    placeholder_text: "fun show() {}"
     initial_state:
       length: 13
       offset: 62
@@ -22,5 +22,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: Sat, 29 Oct 2022 09:39:49 UTC
+  time: "Sat, 29 Oct 2022 09:39:49 UTC"
 record: -1

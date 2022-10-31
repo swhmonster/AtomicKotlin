@@ -5,7 +5,7 @@ files:
   placeholders:
   - offset: 142
     length: 26
-    placeholder_text: TODO("mapIndexed { ??? }")
+    placeholder_text: "TODO(\"mapIndexed { ??? }\")"
     initial_state:
       length: 26
       offset: 142

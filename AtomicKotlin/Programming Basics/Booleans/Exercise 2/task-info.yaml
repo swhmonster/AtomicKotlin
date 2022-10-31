@@ -5,7 +5,7 @@ files:
   placeholders:
   - offset: 48
     length: 16
-    placeholder_text: fun showAnd() {}
+    placeholder_text: "fun showAnd() {}"
     initial_state:
       length: 16
       offset: 48
@@ -15,7 +15,7 @@ files:
     encrypted_possible_answer: lD+1dP/HwmduQ/LBoBQeDGwu0KszA8Mq5vqclk6q1pJJdMzW27NLitP6XGdSDLAq3r7KEoNzQKSncTdXqPyh2WiQJgqrINewS7HGQdWWEmNhdjsbszdT6G1WPs2QBTq/KlYWWuiEhCD7oI3AV32roA==
   - offset: 66
     length: 15
-    placeholder_text: fun showOr() {}
+    placeholder_text: "fun showOr() {}"
     initial_state:
       length: 15
       offset: 66

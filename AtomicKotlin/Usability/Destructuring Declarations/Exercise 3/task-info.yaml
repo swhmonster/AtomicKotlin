@@ -5,7 +5,7 @@ files:
   placeholders:
   - offset: 111
     length: 26
-    placeholder_text: '// TODO: add property here'
+    placeholder_text: "// TODO: add property here"
     initial_state:
       length: 26
       offset: 111

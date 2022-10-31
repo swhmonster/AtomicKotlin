@@ -69,7 +69,7 @@ files:
     encrypted_possible_answer: xJpd1TYUDtaTr+D+ADavcIuezfZsLh+CowR0Z26x0kns5IVblxgIal+1kVfxIGJcqvFf3yI4yONhekecYKcH6A==
   - offset: 434
     length: 22
-    placeholder_text: 'SwimmingInsect: Insect'
+    placeholder_text: "SwimmingInsect: Insect"
     initial_state:
       length: 22
       offset: 434
@@ -79,7 +79,7 @@ files:
     encrypted_possible_answer: gv5usMiAAcOcDETkJVSrHQ==
   - offset: 501
     length: 19
-    placeholder_text: 'WaterWalker: Insect'
+    placeholder_text: "WaterWalker: Insect"
     initial_state:
       length: 19
       offset: 501
@@ -109,7 +109,7 @@ files:
     encrypted_possible_answer: YbJoOhwzbElxXUShSockgvWdMprNr++Qx26wQgQ9Zx4=
   - offset: 665
     length: 27
-    placeholder_text: SwimmingInsect, WaterWalker
+    placeholder_text: "SwimmingInsect, WaterWalker"
     initial_state:
       length: 27
       offset: 665

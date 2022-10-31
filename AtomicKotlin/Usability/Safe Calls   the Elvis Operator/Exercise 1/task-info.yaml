@@ -5,7 +5,7 @@ files:
   placeholders:
   - offset: 98
     length: 17
-    placeholder_text: fun downcase() {}
+    placeholder_text: "fun downcase() {}"
     initial_state:
       length: 17
       offset: 98

@@ -5,7 +5,7 @@ files:
   placeholders:
   - offset: 99
     length: 23
-    placeholder_text: 'fun abort(s: String) {}'
+    placeholder_text: "fun abort(s: String) {}"
     initial_state:
       length: 23
       offset: 99

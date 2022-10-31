@@ -15,7 +15,7 @@ files:
     encrypted_possible_answer: j+VzH3dI9b7+D2tjPgJ36awIWYb8PlQ6RUC0dsjWTrfRiSroWOOYWBbUuLhqoXhL
   - offset: 100
     length: 15
-    placeholder_text: fun launch() {}
+    placeholder_text: "fun launch() {}"
     initial_state:
       length: 15
       offset: 100

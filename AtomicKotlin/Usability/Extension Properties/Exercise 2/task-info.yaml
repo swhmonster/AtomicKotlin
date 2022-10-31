@@ -5,7 +5,7 @@ files:
   placeholders:
   - offset: 91
     length: 29
-    placeholder_text: '// TODO: implement ''reversed'''
+    placeholder_text: "// TODO: implement 'reversed'"
     initial_state:
       length: 29
       offset: 91

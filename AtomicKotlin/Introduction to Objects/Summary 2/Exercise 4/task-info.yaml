@@ -5,7 +5,7 @@ files:
   placeholders:
   - offset: 138
     length: 29
-    placeholder_text: '// TODO: add Dictionary class'
+    placeholder_text: "// TODO: add Dictionary class"
     initial_state:
       length: 29
       offset: 138

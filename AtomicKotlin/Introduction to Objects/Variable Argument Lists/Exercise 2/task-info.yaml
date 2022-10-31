@@ -5,7 +5,7 @@ files:
   placeholders:
   - offset: 60
     length: 18
-    placeholder_text: fun printArgs() {}
+    placeholder_text: "fun printArgs() {}"
     initial_state:
       length: 18
       offset: 60

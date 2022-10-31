@@ -15,7 +15,7 @@ files:
     encrypted_possible_answer: eIK4cFiWp59okqaz7yIFQhhuZHpBzxOsHOY2/HgVfps=
   - offset: 182
     length: 16
-    placeholder_text: 'val type: String'
+    placeholder_text: "val type: String"
     initial_state:
       length: 16
       offset: 182

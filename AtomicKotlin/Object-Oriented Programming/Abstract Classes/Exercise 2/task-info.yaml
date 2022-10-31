@@ -25,7 +25,7 @@ files:
     encrypted_possible_answer: cMi9haO4MGJr1UXQ4VKKreK41lTLPFlV5j5GoBj4yMY=
   - offset: 182
     length: 37
-    placeholder_text: '// class Sofa: Movable(), Sleepable()'
+    placeholder_text: "// class Sofa: Movable(), Sleepable()"
     initial_state:
       length: 37
       offset: 182

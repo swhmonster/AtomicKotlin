@@ -5,7 +5,7 @@ files:
   placeholders:
   - offset: 126
     length: 24
-    placeholder_text: 'data class N(var n: Int)'
+    placeholder_text: "data class N(var n: Int)"
     initial_state:
       length: 24
       offset: 126

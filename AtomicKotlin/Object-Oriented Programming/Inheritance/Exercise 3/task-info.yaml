@@ -35,7 +35,7 @@ files:
     encrypted_possible_answer: lqqyHaVi5Dlz+bawkIoGkMBffo3WI0htn3JBVlGgww60uODAwubnE3wXE3c6yAqs
   - offset: 205
     length: 50
-    placeholder_text: // Chess().initOrder eq "[Game, BoardGame, Chess]"
+    placeholder_text: "// Chess().initOrder eq \"[Game, BoardGame, Chess]\""
     initial_state:
       length: 50
       offset: 205

@@ -5,7 +5,7 @@ files:
   placeholders:
   - offset: 153
     length: 10
-    placeholder_text: '{ TODO() }'
+    placeholder_text: "{ TODO() }"
     initial_state:
       length: 10
       offset: 153
@@ -15,7 +15,7 @@ files:
     encrypted_possible_answer: moPSUmpnBdMUgiur+q9LVYYZmJY2gEys5yWjq3tF42w=
   - offset: 174
     length: 10
-    placeholder_text: '{ TODO() }'
+    placeholder_text: "{ TODO() }"
     initial_state:
       length: 10
       offset: 174
@@ -25,7 +25,7 @@ files:
     encrypted_possible_answer: moPSUmpnBdMUgiur+q9LVQlzU5a9S5sy6SHX6Tm7z8g=
   - offset: 231
     length: 10
-    placeholder_text: '{ TODO() }'
+    placeholder_text: "{ TODO() }"
     initial_state:
       length: 10
       offset: 231
@@ -35,7 +35,7 @@ files:
     encrypted_possible_answer: moPSUmpnBdMUgiur+q9LVcvRHhJ1zxCFSeGkNh/D3RU=
   - offset: 252
     length: 10
-    placeholder_text: '{ TODO() }'
+    placeholder_text: "{ TODO() }"
     initial_state:
       length: 10
       offset: 252
